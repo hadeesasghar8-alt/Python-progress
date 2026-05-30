@@ -1,0 +1,8 @@
+print(5)
+print(50)
+print(500)
+print(5000)
+print(3 +3)
+print(5 * 136789)
+print("I am", 35, "years old")
+print("I am", 25, "in 3 years time")
